@@ -36,3 +36,5 @@
   <a href = "https://outlook.live.com/mail/0/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"
   </a>
   </div>
+     
+     ![snake gif](https://github.com/Mauricio-Lourenco/Mauricio-Lourenco/blob/output/github-contribution-grid-snake.svg)
