@@ -1,4 +1,4 @@
-### Olá! Eu sou o Maurício Lourenço
+### Maurício Lourenço de Santana
 
 - 👽 Ele/Dele
 - 🧰 Hands On
