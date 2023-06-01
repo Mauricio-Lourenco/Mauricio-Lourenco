@@ -5,7 +5,6 @@
 - 💻 Estudando Flutter e Dart
 - 📫 Contate-me por email: lourenco.mauricio@outlook.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mauricio-Lourenco&count_private=true&show_icons=true&theme=gruvbox&show_owner) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio-Lourenco&size_weight=0.5&count_weight=0.5&theme=gruvbox)
 ##
 
 <div>   
